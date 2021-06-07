@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12959" started-at="2021-06-07T18:38:46 IST" finished-at="2021-06-07T18:38:59 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12959" started-at="2021-06-07T18:38:46 IST" finished-at="2021-06-07T18:38:59 IST">
+      <class name="jenkinsdemo.OrangehrmTest">
+        <test-method status="PASS" signature="orangehrmtitleTest(java.lang.String)[pri:0, instance:jenkinsdemo.OrangehrmTest@57855c9a]" name="orangehrmtitleTest" duration-ms="12871" started-at="2021-06-07T18:38:46 IST" finished-at="2021-06-07T18:38:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangehrmtitleTest -->
+      </class> <!-- jenkinsdemo.OrangehrmTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
